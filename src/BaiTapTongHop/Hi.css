@@ -1,0 +1,12 @@
+.active{
+    /* background-color: black; */
+    /* color: white; */
+}
+
+.openPopUp{
+    display: block;
+}
+
+.closePopUp{
+    display: none;
+}
